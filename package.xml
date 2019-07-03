@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>moving_obstacles</name>
+  <version>0.0.1</version>
+  <description>Experimental package for moving obstacles</description>
+
+  <maintainer email="yangwei.you@foxmail.com">Yangwei YOU</maintainer>
+  <license>Apache License 2.0</license>
+
+  <exec_depend>servicesim</exec_depend>
+  <exec_depend>gazebo_ros</exec_depend>
+  <exec_depend>roslaunch</exec_depend>
+  <exec_depend>message_runtime</exec_depend>
+  <exec_depend>python-rospkg</exec_depend>
+
+  <depend>roscpp</depend>
+  <depend>std_msgs</depend>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <export>
+  </export>
+</package>
