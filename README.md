@@ -6,4 +6,4 @@ Start simulation:
 
 Update obstacle state:
 
-	$ python ModelStatePublisher.py
+	$ rosrun moving_obstacles ModelStatePublisher.py
